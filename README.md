@@ -1,4 +1,5 @@
 # aimllab 
+1.[assignment lab 01](https://github.com/somarthinimesh/aimllab/blob/main/lab_01_ipynb.ipynb)
 2.[assignment lab 02](https://github.com/somarthinimesh/aimllab/blob/main/lab_02.ipynb)
 3.[assignment lab 03](https://github.com/somarthinimesh/aimllab/blob/main/lab_03ipynb.ipynb)
 4.[assignment lab 04](https://github.com/somarthinimesh/aimllab/blob/main/Lab04.ipynb)
