@@ -7,3 +7,4 @@
 6.[assignment lab 07](https://github.com/somarthinimesh/aimllab/blob/main/AIML_Lab_07.ipynb)
 7.[assignment lab 08](https://github.com/somarthinimesh/aimllab/blob/main/AIML_Lab_08.ipynb)
 8.[assignment lab 09](https://github.com/somarthinimesh/aimllab/blob/main/lab_09_ipynb.ipynb)
+9.[assignment lab 10](https://github.com/somarthinimesh/aimllab/blob/main/lab_10.ipynb)
